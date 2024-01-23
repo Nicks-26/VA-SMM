@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+.nav-link {
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: black;
+}
+
+h2 {
+    font-size: 75px;
+    color: white;
+    padding-top: 90px;
+    padding-left: 35px;
+}
+
+.project {
+    color: white;
+    font-size: 20px;
+    padding-top: 35px;
+    padding-left: 100px;
+}
+
+
+.card {
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+#card1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#card2 {
+    margin-bottom: 20px;
+}
+
